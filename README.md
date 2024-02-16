@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karthikselvi
 - 👀 I’m interested in Full stack develepment
 - 🌱 I’m currently learning MERN stack development
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : karthikelvi9202@gmail.com
  <!---😄 Pronouns: ...
 - ⚡ Fun fact: ...--->
